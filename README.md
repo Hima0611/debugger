@@ -39,10 +39,14 @@ Perfect for developers who want instant, intelligent debugging insights.
 
 ## Run the backend server
 uvicorn backend.main:app --reload
+
+
 Backend will start on: http://127.0.0.1:8000
 
 ## 4️⃣ Run the frontend (in another terminal)
 cd frontend 
+
+
 npm start
 
 
